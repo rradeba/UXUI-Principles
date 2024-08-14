@@ -1,0 +1,24 @@
+Research for Product Registration: 
+
+Design Patterns: 
+- Easy to navigate input boxes 
+- Minimalist page navigation buttons 
+- shadows around input boxes
+- many require a user login before, connects registered item to account
+- graphics/illustrations di 
+- the design of the page matches the industry, bakery would be bright, fun and, inviting  
+- after input, there is a receipt page that shows the input information
+- most are simple and avoid unnecessary items on the page that detract from the purpose
+
+Pain Points: 
+- over-complicated navigation can confuse the user 
+- CTA (call to action) is not clear 
+- insufficient, disorganized information on the page 
+- login process for the user does not work well 
+- the page is sluggish, takes too long to load 
+- the page is poorly styled, not pleasing to the eye 
+- design is outdated and not up with current standards 
+
+Information to Request: 
+- Information about he user (if not available through login)
+- all of the necessary information about the product (name, style, purchase info)
